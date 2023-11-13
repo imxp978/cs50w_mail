@@ -1,0 +1,16 @@
+textarea {
+    min-height: 400px;
+}
+
+.read {
+    background-color: gray;
+}
+
+.unread{
+    border: 1px;
+    border-color: black;
+}
+
+.align-right{
+    text-align: right;
+}
